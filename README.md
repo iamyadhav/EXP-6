@@ -1,30 +1,53 @@
-# EXP-6
-EXP No. :6 			CHARACTERISTICS M OF LVDT
-AIM:To measure output voltage w.r.t the displacement of the core on the LVDT kit and
+# EXP-6 CHARACTERISTICS M OF LVDT
+## AIM:
+To measure output voltage w.r.t the displacement of the core on the LVDT kit and
 find the graphical relationship between the two.
 
-APPARATUS: - LVDT kit, Multimeter
+## APPARATUS: 
+- LVDT kit, Multimeter
 
-THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
+## THEORY: 
+- LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
-DIAGRAM:<img width="812" height="652" alt="image" src="https://github.com/user-attachments/assets/798b90f8-2d2e-4141-ba6b-0d3d2a9f8bee" />
+## CIRCUIT DIAGRAM
+![WhatsApp Image 2025-11-13 at 23 22 40_6ec182a0](https://github.com/user-attachments/assets/d0dba8df-784b-4022-ac50-259c42a40153)
 
-CIRCUIT DIAGRAM
-PROCEDURE: -
-I. Connect the multimeter at the output of kit..
-2. Set the range to a maximum value of 10 mm.
-3. More the gauge from zero to maximum of 20mm.
-4. Value and note the corresponding values of voltages in the multimeter.
-5. Plot the graph between displacement and voltages on the graph paper.
-
-
-OBSERVATION TABLE:<img width="616" height="247" alt="image" src="https://github.com/user-attachments/assets/89162df1-480a-448c-a6dd-78a852210eaa" />
+## PROCEDURE: -
+      I. Connect the multimeter at the output of kit..
+      2. Set the range to a maximum value of 10 mm.
+      3. More the gauge from zero to maximum of 20mm.
+      4. Value and note the corresponding values of voltages in the multimeter.
+      5. Plot the graph between displacement and voltages on the graph paper.
 
 
-PRECAUTION: -
+## OBSERVATION TABLE
+![WhatsApp Image 2025-11-13 at 23 22 40_4d0c2ea1](https://github.com/user-attachments/assets/75e782c4-5ac3-4313-9fa0-8971bed8eccd)
+
+## MODEL GRAPH
+![WhatsApp Image 2025-11-13 at 23 22 40_17ae74ee](https://github.com/user-attachments/assets/db1a5647-131a-4e5d-8cec-97064cfd051e)
+
+## OUTPUT:
+### Positive Displacement
+<img width="1495" height="883" alt="Screenshot 2025-10-27 091823" src="https://github.com/user-attachments/assets/4d9b8517-b39e-49d6-bc83-e9f7014f5ba4" />
+
+### Negative Displacement
+<img width="1491" height="869" alt="Screenshot 2025-10-27 091935" src="https://github.com/user-attachments/assets/83dc0f6c-79b3-477f-960c-6c76d3aa836d" />
+
+## PRECAUTION: -
 1. The values on the multimeter should be carefully noted.
 2. The core should be set to a maximum value of 20mm.
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
-RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
+## RESULT: 
+- LVDT was studied well and graph of displacement was linear for a particular range.
+
+
+
+
+
+
+
+
+## RESULT:  
+LVDT was studied well and graph of displacement was linear for a particular range.
